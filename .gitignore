@@ -1,0 +1,14 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Outputs
+output/*.xlsx
+output/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
